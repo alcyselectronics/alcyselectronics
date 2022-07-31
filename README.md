@@ -1,6 +1,7 @@
-### Página Eletrônica do Alcy
+## Página Eletrônica do Alcy
 
-- 🖥️ Atualmente estou trabalhando no projeto de um Computador Retrô
+- 🖥️ Atualmente estou trabalhando no projeto de um Computador Retrô.
+- 📶 Próximo projeto que será iniciado é de um Receptor AM para faixa de 10 metros.
 
 <div align="center">
   <a href="https://github.com/alcyselectronics">
